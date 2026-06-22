@@ -6,7 +6,7 @@
     <td width="60%" style="padding: 25px; font-family: 'Courier New', monospace; background: #0d1117; color: #c9d1d9; vertical-align: middle;">
       <h1 style="margin-top: 0; color: #ffffff;">Hi there, I'm ZEUS</h1>
       <p style="font-size: 1.1em; line-height: 1.5;">
-        A tech enthusiast here I am presenting the project <strong>THE RPS SHOWDOWN</strong> — a fast-paced rock-paper-scissors simulator written natively in C.
+        A tech enthusiast here I am presenting my project <strong>THE RPS SHOWDOWN</strong> — a fast-paced rock-paper-scissors simulator written natively in C.
       </p>
     </td>
   </tr>
