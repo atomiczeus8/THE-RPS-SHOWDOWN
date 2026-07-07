@@ -4,6 +4,7 @@
 
 int main()
 {
+    
     srand(time(0));
     int player, computer = rand() % 3;
     printf("====================================================\n");
